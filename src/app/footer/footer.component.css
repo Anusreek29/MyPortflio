@@ -1,0 +1,35 @@
+.footer{
+    padding: 3px;
+    background-color: beige;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icons{
+    width: 15%;
+    justify-content: space-around;
+    display: inline-flex;
+    
+
+}
+.ul{
+    list-style: none;
+}
+h5{
+    font-weight: bold;
+}
+.legal{
+    width:20%;
+    display: inline-flex;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+
+ 

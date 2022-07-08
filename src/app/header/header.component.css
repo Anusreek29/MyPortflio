@@ -1,0 +1,34 @@
+*{
+    background-color: beige;
+ }  
+.header{
+    width:100%;
+    display: flex;
+}
+.portfolio{
+    width: 70%;
+    /* display: inline-block; */
+    
+}
+h3{
+    margin-left: 10px;
+}
+.Links{
+    display:flex; 
+    width:30%;
+    margin-left:auto;
+    justify-content: space-around;
+    font-size: medium;
+    text-align: end;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+a:hover{
+    color: brown;
+    text-decoration: none;
+};
+a{
+ margin-right: 5%;
+}
+
+

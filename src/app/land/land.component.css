@@ -1,0 +1,43 @@
+.page{
+    background-image: url(./back.jpg);
+    background-size: cover;
+    height: 500px;
+}
+h3{
+    margin-top: 10px;
+    margin-left: 5px;
+    align-items: center;
+    font-style:calc();
+    color: black;
+    font-weight: bold;
+}
+h4{
+    color: black;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+button{
+    
+    font-size: medium;
+    height: 35px;
+    width: 10%;
+    margin-left: 20%;
+    color: white;
+    background-color: rgb(85, 93, 182);
+    margin-bottom: 5px;
+    border-radius: 12px;
+    border: 1px solid white;
+    
+  
+}
+.land{
+    width: 100%;
+    text-align: right;
+    color:black;
+    padding: 10px;
+}
+#route{
+    color: white;
+    text-align: center;
+    
+}

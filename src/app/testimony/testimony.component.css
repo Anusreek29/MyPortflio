@@ -1,0 +1,21 @@
+*{
+    height: 500px;
+}
+.carousel-caption {
+    position: absolute;
+    z-index: 1;
+    display:table;
+    width:100%;
+    height:100%;
+}
+
+.carousel-caption div {
+    display:table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.note{
+    font-size: larger;
+}
+
